@@ -1,6 +1,6 @@
 ## Restaurant Management System
 
-1. ALl the DDL commands (create tables) are in the file named "create table.sql.txt".
+1. All the DDL commands (create tables) are in the file named "create table.sql.txt".
 	1.1. After the create tables, we made some modifications to the table structure using alter table, the commands to run next are those.
 	1.2. Alter tables commands are in the "alter table.sql.txt"
 
